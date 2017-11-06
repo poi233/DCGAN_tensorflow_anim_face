@@ -18,9 +18,10 @@ An animation face generator using [DCGAN](https://github.com/carpedm20/DCGAN-ten
 link:http://pan.baidu.com/s/1c2Gqucg  password:4eh3
 
 ## Data Obtain
-data_scratch/crawl.py: Get pictures from [KONACHAN](http://link.zhihu.com/?target=http%3A//konachan.net/)
-data_scratch/scratch_face.py: Get faces from images above
-data_scratch/AnimCrawl.ipynb: Crawl HD landscape from [KONACHAN](http://link.zhihu.com/?target=http%3A//konachan.net/)
+data_scratch/crawl.py: Get pictures from [KONACHAN](http://link.zhihu.com/?target=http%3A//konachan.net/)<br>
+data_scratch/scratch_face.py: Get faces from images above<br>
+data_scratch/AnimCrawl.ipynb: Crawl HD landscape from [KONACHAN](http://link.zhihu.com/?target=http%3A//konachan.net/)<br>
+
 
 ## Results
 result after 1 epoch<br>
