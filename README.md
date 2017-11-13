@@ -7,7 +7,7 @@ An animation face generator using [DCGAN](https://github.com/carpedm20/DCGAN-ten
 ![moviepy](https://img.shields.io/badge/dependencies-moviepy(optional)-blue.svg)
 
 ## Usage
-<code>python main.py --input_height 96 --input_width 96 --output_height 48 --output_width 48  --dataset faces --crop --train --epoch 300 --input_fname_pattern "*.jpg" --visualize
+<code> python main.py --input_height 96 --input_width 96 --output_height 48 --output_width 48  --dataset faces --crop --train --epoch 300 --input_fname_pattern "*.jpg" --visualize
 </code>
 
 * dataset: dir name of dataset in /data
